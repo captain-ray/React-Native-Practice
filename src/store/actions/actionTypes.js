@@ -1,0 +1,4 @@
+export const ADD_NEW_PLACE='ADD_NEW_PLACE';
+export const DELETE_PLACE='DELELTE_PLACE';
+
+
